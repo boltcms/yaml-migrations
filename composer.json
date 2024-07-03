@@ -13,9 +13,9 @@
         "bobdenotter/commando": "^0.4 || ^1.0",
         "webimpress/safe-writer": "^2.1",
         "composer/semver": "^3.2",
-        "symfony/yaml": "^5.1",
-        "symfony/var-dumper": "^5.1",
-        "symfony/finder": "^5.1"
+        "symfony/yaml": "^5.1 || ^6.4 || ^7.0",
+        "symfony/var-dumper": "^5.1 || ^6.4 || ^7.0",
+        "symfony/finder": "^5.1 || ^6.4 || ^7.0"
     },
     "autoload": {
         "psr-4": {
